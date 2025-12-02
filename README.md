@@ -2,6 +2,7 @@
 
 Honors Computer Science 2028 @ [UGA](https://www.uga.edu/)  
 Flight Sofware Engineer @ [UGA SSRL](https://smallsat.uga.edu/) 
+
 Interests: Software development, spaceflight software systems, game development, cybersecurity
 
 ## Contact
