@@ -1,5 +1,7 @@
 # About Me
 
+Hi! My name is Tyler. 
+
 Honors Computer Science 2028 @ [UGA](https://www.uga.edu/)  
 Flight Sofware Engineer @ [UGA SSRL](https://smallsat.uga.edu/) 
 
