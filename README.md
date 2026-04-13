@@ -4,6 +4,7 @@ Hi! My name is Tyler.
 
 Honors Computer Science 2028 @ [UGA](https://www.uga.edu/)  
 Flight Sofware Engineer @ [UGA SSRL](https://smallsat.uga.edu/) 
+Hackathon Winner @ UGAHacks 2026
 
 Interests: Software development, spaceflight software systems, game development, cybersecurity
 
