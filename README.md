@@ -2,9 +2,9 @@
 
 Hi! My name is Tyler. 
 
-Flight Sofware Engineer @ [UGA SSRL](https://smallsat.uga.edu/) 
-Intern @ [PERSEUS](https://perseus.uga.edu/home)
-Honors Computer Science 2028 @ [UGA](https://www.uga.edu/) 
+Flight Sofware Engineer @ [UGA SSRL](https://smallsat.uga.edu/)\ 
+Intern @ [PERSEUS](https://perseus.uga.edu/home)\
+Honors Computer Science 2028 @ [UGA](https://www.uga.edu/)\
 
 Interests: Spaceflight software systems, software development, game development, cybersecurity
 
