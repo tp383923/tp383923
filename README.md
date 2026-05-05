@@ -2,13 +2,13 @@
 
 # About Me
 
-Hi! My name is Tyler. 
+Hi! My name is Tyler. I like to build spaceflight software systems, and am currently focused on Data downlinking for NASA funded satellites. 
 
 Flight Software Engineer @ [UGA SSRL](https://smallsat.uga.edu/)  
 Intern @ [PERSEUS](https://perseus.uga.edu/home)  
 Honors Computer Science 2028 @ [UGA](https://www.uga.edu/)  
 
-Interests: Spaceflight software systems, software development, game development, cybersecurity
+Interests: Flight software, software engineering, game development, cybersecurity
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-price-lbs185) [![Personal Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tylermprice1212@gmail.com)
