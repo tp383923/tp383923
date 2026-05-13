@@ -1,4 +1,4 @@
-<img src="https://imgs.search.brave.com/0wScMs-ut9xbZA0FTHznhso-K4K6guM7_WM1IzNEL18/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXM0LmFscGhhY29k/ZXJzLmNvbS8xMzQv/dGh1bWItNDQwLTEz/NDk1NDAud2VicA" width="100%" style="border-radius: 10px" />
+<img src="https://imgs.search.brave.com/zUsGcAORnEVBY0mpeAxWhf6UMzRiAnhltPcJmE51cnA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEzMzg4/NzUxLnBuZw" width="100%" style="border-radius: 10px" />
 
 # About Me
 
